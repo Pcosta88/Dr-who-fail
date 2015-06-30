@@ -1,0 +1,33 @@
+=== User Login Fail Display ===
+Contributors: Pcosta88
+Author Email: Costa.patrick@gmail.com
+Tags: Dr. Who, Exterminate, Login Display, Login Error
+Requires at least: 3.9
+Tested up to: 3.9
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://patcosta.com/Willie_and_Joe_Studios.html
+Image License: Standard
+Image Acknowledgement: Courtesy of Simon Howden/FreeDigitalPhotos.net
+   See also: http://www.freedigitalphotos.net/images/Toys_and_Games_g80-Daleks_p9975.html
+
+
+Installs a  Dalek theme when user fails to login.
+
+== Description ==
+When a user fails to login correctly a Dr. Who themed Dalek will appear.
+
+== Installation ==
+Download the file, place it in the wp-plugin folder, and activate. 
+
+== Frequently Asked Questions ==
+N/A
+
+== Screenshots ==
+1. Exterminate and a pair of Daleks as a user login failure display.
+
+== Changelog ==
+N/A
+
+== Upgrade Notice ==
+N/A
